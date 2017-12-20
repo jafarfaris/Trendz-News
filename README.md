@@ -7,3 +7,6 @@ Feel Free! if you want to contribute to make my website better with the UI or th
 * HTML5, CSS3, JS
 * Bootstrap 4
 * PHP & MySqli
+
+### Online Link
+Please visit [TrendzNews](http://webhozz-training.com/trendznews/)
